@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "KitBot Java Code",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
